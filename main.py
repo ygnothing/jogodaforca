@@ -4,8 +4,8 @@
 # Versão Python: ">=3.10.0,<3.11"
 
 from random import choice
-import os  # Importar dispositivo
-import time  # Calcular tempo de jogo
+import os  # Importar sistema operacional
+import time  # Importar o tempo para calcular o tempo de jogo
 
 
 # Função de limpar a tela
