@@ -1,6 +1,7 @@
 # Projeto Jogo da Forca para o curso de Automação Industrial no IFRS!
 # Criador: Michael Rodrigues dos Santos
 # GitHub: github.com/ygnothing
+# Replit: replit.com/@ygnothing/IFRS-FORCA
 # Versão Python: ">=3.10.0,<3.11"
 
 from random import choice
