@@ -13,5 +13,5 @@ Limpar console cada vez que o usuário jogar,
 Inserir quantidade de erros, 
 Informar letras erradas, 
 Mensagem de vitória, 
-A cada erro inserir uma parte do corpo do "Inforcado" 
+A cada erro inserir uma parte do corpo do "Enforcado" 
 e muito mais.
