@@ -1,5 +1,5 @@
 # Jogo da Forca em Python!
-Projeto Jogo da Forca para o curso de Automação Industrial no IFRS!
+Projeto de um Jogo da Forca para o curso de Automação Industrial no IFRS!
 
 Criador: Michael Rodrigues dos Santos
 
