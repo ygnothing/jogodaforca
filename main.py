@@ -10,10 +10,10 @@ import time  # Calcular tempo de jogo
 
 # Função de limpar a tela
 def limpar_tela():
-  if os.name == 'nt':
+  if os.name == 'nt': # Caso Seja Windows utiliza "cls"
     os.system('cls')
   else:
-    os.system('clear')
+    os.system('clear') # Caso Seja macOS/Linux utiliza "clear"
 
 
 # Puxar palavras do banco de dados
